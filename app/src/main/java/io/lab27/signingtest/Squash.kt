@@ -6,4 +6,5 @@ class Squash {
     val value3 = ""
     val value4 = ""
     val value5 = ""
+    val value6 = ""
 }
