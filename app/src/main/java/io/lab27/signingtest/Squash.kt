@@ -8,5 +8,15 @@ class Squash {
     val value5 = ""
     val value6 = ""
     val value7 = ""
-    val value8 = ""
+    var value8 = ""
+
+    fun update(){
+        value8 = "13"
+        value8 = "13"
+        value8 = "13"
+        value8 = "13"
+        value8 = "13"
+        value8 = "13"
+
+    }
 }
