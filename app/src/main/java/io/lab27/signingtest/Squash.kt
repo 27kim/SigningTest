@@ -8,4 +8,5 @@ class Squash {
     val value5 = ""
     val value6 = ""
     val value7 = ""
+    val value8 = ""
 }
